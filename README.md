@@ -8,8 +8,9 @@ Study project from Alura's course of HTML and CSS
 | :rocket: URL         | https://luvinicius.github.io/aluraplus/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/luvinicius/aluraplus/blob/main/vitrine.png)
+## Preview
+
+![](https://github.com/luvinicius/aluraplus/blob/main/vitrine.png?raw=true#vitrinedev)
 
 ## Detalhes do projeto
 
